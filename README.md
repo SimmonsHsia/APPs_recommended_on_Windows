@@ -47,10 +47,14 @@
 
     [Bulk Crap Unistaller](https://www.bcuninstaller.com/)
 
-10. 其他
+10. 文献管理工具
+
+    [zotero](https://www.zotero.org/)
+
+11. 其他
 
     [Git](https://git-scm.com/)
-    
+
     [Visual Studio Code](https://code.visualstudio.com/)
 
     
