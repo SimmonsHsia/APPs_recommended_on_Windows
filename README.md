@@ -45,6 +45,8 @@
 
     [Geek Uninstaller](https://geekuninstaller.com/)
 
+    [Bulk Crap Unistaller](https://www.bcuninstaller.com/)
+
 10. 其他
 
     [Git](https://git-scm.com/)
