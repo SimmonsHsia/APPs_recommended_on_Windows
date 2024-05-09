@@ -1,5 +1,5 @@
 # APPs_recommended_on_Windows
-推荐Windows系统上的高质量应用
+推荐Windows系统上的应用
 
 1. 文件检索类
 
