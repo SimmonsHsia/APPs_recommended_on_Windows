@@ -51,7 +51,14 @@
 
     [zotero](https://www.zotero.org/)
 
-11. 其他
+11. 激活工具
+
+    [Microsoft Activation Scripts (MAS)](https://massgrave.dev/)
+
+    [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
+
+
+12. 其他
 
     [Git](https://git-scm.com/)
 
