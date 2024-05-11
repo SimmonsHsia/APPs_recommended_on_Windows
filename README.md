@@ -57,8 +57,15 @@
 
     [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
 
+12. 字体推荐
 
-12. 其他
+    [Monaspace](https://monaspace.githubnext.com/)
+
+    [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
+    [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
+
+13. 其他
 
     [Git](https://git-scm.com/)
 
