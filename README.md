@@ -57,7 +57,13 @@
 
 * [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
 
-### 12. 字体推荐
+### 12. 编程工具
+
+* [Git](https://git-scm.com/)
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+### 13. 字体推荐
 
 * [Monaspace](https://monaspace.githubnext.com/)
 
@@ -65,10 +71,12 @@
 
 * [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
 
-### 13. 其他
+### 14. 网盘推荐
 
-* [Git](https://git-scm.com/)
+* [坚果云](https://www.jianguoyun.com/)
 
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [InfiniCLOUD](https://infini-cloud.net/en/)
+
+
 
     
