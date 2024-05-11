@@ -1,74 +1,74 @@
 # APPs_recommended_on_Windows
-推荐Windows系统上的应用
 
-1. 文件检索工具
 
-    [everything](https://www.voidtools.com/zh-cn/)
+## 文件检索工具
 
-    [Listary](https://www.listary.com/)
+1. [everything](https://www.voidtools.com/zh-cn/)
 
-2. 下载器
+2. [Listary](https://www.listary.com/)
 
-    [IDM](https://www.internetdownloadmanager.com/)
+## 下载器
 
-    [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+1. [IDM](https://www.internetdownloadmanager.com/)
 
-3. 压缩文件管理工具
+2. [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 
-    [7-zip](https://7-zip.org/)
+## 压缩文件管理工具
 
-4. 虚拟机管理工具
+1. [7-zip](https://7-zip.org/)
 
-    [VMware Workstation Pro](https://www.vmware.com/content/vmware/vmware-published-sites/cn/products/workstation-pro/workstation-pro-evaluation.html.html)
+## 虚拟机管理工具
 
-    [Oracle VirtualBox](https://www.virtualbox.org/)  
+1. [VMware Workstation Pro](https://www.vmware.com/content/vmware/vmware-published-sites/cn/products/workstation-pro/workstation-pro-evaluation.html.html)
 
-5. Windows美化工具
+2. [Oracle VirtualBox](https://www.virtualbox.org/)  
 
-    [TranslucentTB](https://translucenttb.com/)
+## Windows美化工具
 
-6. 截图工具
+1. [TranslucentTB](https://translucenttb.com/)
 
-    [Snipaste](https://zh.snipaste.com/)
+## 截图工具
 
-7. 便携工具
+1. [Snipaste](https://zh.snipaste.com/)
 
-    [PortableApps](https://portableapps.com/)
+## 便携工具
 
-8. 启动U盘制作工具
+1. [PortableApps](https://portableapps.com/)
 
-    [Ventoy](https://www.ventoy.net/cn/)
+## 启动U盘制作工具
 
-    [Rufus](https://rufus.ie/zh/)
+1. [Ventoy](https://www.ventoy.net/cn/)
 
-9. 卸载工具
+2. [Rufus](https://rufus.ie/zh/)
 
-    [Geek Uninstaller](https://geekuninstaller.com/)
+## 卸载工具
 
-    [Bulk Crap Unistaller](https://www.bcuninstaller.com/)
+1. [Geek Uninstaller](https://geekuninstaller.com/)
 
-10. 文献管理工具
+2. [Bulk Crap Unistaller](https://www.bcuninstaller.com/)
 
-    [zotero](https://www.zotero.org/)
+## 文献管理工具
 
-11. 激活工具
+1. [zotero](https://www.zotero.org/)
 
-    [Microsoft Activation Scripts (MAS)](https://massgrave.dev/)
+## 激活工具
 
-    [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
+1. [Microsoft Activation Scripts (MAS)](https://massgrave.dev/)
 
-12. 字体推荐
+2. [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
 
-    [Monaspace](https://monaspace.githubnext.com/)
+## 字体推荐
 
-    [Cascadia Code](https://github.com/microsoft/cascadia-code)
+1. [Monaspace](https://monaspace.githubnext.com/)
 
-    [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
+2. [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
-13. 其他
+3. [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
 
-    [Git](https://git-scm.com/)
+## 其他
 
-    [Visual Studio Code](https://code.visualstudio.com/)
+1. [Git](https://git-scm.com/)
+
+2. [Visual Studio Code](https://code.visualstudio.com/)
 
     
