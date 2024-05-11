@@ -1,5 +1,5 @@
 # APPs_recommended_on_Windows
-
+推荐windows上优质的应用、工具等，并提供直达链接。
 
 ### 1. 文件检索工具
 
