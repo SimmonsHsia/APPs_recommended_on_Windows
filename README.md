@@ -69,6 +69,8 @@
 
 * [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
+* [HarmonyOS Sans](https://developer.huawei.com/consumer/cn/doc/design-guides-V1/font-0000001157868583-V1)
+
 * [霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
 
 ### 14. 网盘推荐
