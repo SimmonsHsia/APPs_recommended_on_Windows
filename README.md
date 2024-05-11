@@ -13,7 +13,7 @@
 
 * [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 
-#### 3. 压缩文件管理工具
+### 3. 压缩文件管理工具
 
 * [7-zip](https://7-zip.org/)
 
