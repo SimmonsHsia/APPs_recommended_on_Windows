@@ -91,3 +91,7 @@
 * [notion](https://www.notion.so/)
 
 * [AFFiNE](https://affine.pro/)
+
+### 17. 自动化脚本工具
+
+* [AutoHotKey](https://www.autohotkey.com/)
