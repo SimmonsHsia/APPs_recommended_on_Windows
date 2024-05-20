@@ -6,6 +6,8 @@
 
 * [Listary](https://www.listary.com/)
 
+* [Flow Launcher](https://www.flowlauncher.com/)
+
 ### 2. 下载器
 
 * [IDM](https://www.internetdownloadmanager.com/)
@@ -84,6 +86,8 @@
 
 * [freeCodeCamp](https://www.freecodecamp.org/)
 
+### 16. 笔记工具
 
+* [notion](https://www.notion.so/)
 
-    
+* [AFFiNE](https://affine.pro/)
