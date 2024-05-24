@@ -95,3 +95,9 @@
 ### 17. 自动化脚本工具
 
 * [AutoHotKey](https://www.autohotkey.com/)
+
+### 18. 划词翻译工具
+
+* [Pot](https://pot-app.com/)
+
+* [CopyTranslator](https://copytranslator.github.io/)
